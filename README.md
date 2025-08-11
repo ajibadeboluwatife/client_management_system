@@ -1,7 +1,7 @@
-# Vendor_management_system
+# client_management_system
 
 Installation and Local Development
-# Vendor-Management-System
+# client-Management-System
 
 ![Python Version](https://img.shields.io/badge/python-3.12-blue)
 ![CI](https://github.com/jibbs1703/LiBookTrac/actions/workflows/CI.yaml/badge.svg)
